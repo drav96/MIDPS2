@@ -1,4 +1,7 @@
-# MIDPS2
-# MIDPS2
-# MIDPS2
-# MIDPS2
+##MIDPS Labs
+### Personal Information
+
+**Student:** Lupei Dragoș
+
+**Group:** FAF-141
+
