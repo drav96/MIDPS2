@@ -1,4 +1,4 @@
-##MIDPS Labs
+##IDE Labs
 ### Personal Information
 
 **Student:** Lupei Dragoș
